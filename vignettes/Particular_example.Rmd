@@ -14,4 +14,4 @@ knitr::opts_chunk$set(
 )
 ```
 
-Explanation of a particular case when using this package.
+Explanation of a particular case when using this package. Small change now to be committed.
